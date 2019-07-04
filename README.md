@@ -1,3 +1,4 @@
+#fridgeMonitorIOT
 This project focuses on two implementations to monitor and alert about fridge temperature:
 
 -Monitor the temperature, use Polynomial Regression for prediction and send Email to recepient when temperature crosses Threshold
